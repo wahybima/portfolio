@@ -182,4 +182,4 @@ Feel free to check [Astro documentation](https://docs.astro.build) or jump into 
 
 ## Contact
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-bima-a7995733a/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahybima/)
