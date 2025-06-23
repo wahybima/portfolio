@@ -1,13 +1,11 @@
 # Personal Professional Card Astro
 
-"Hi there!, I'm Brian. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
+"Hi there!, I'm Wahyu. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
 
 You can help me by following me, giving a Star to the template, and sharing it so others can see and use it.
 
 Have a great day!"
 
-
-![example page](pageexample.png)
 
 ![performance web](performance.png)
 
@@ -19,7 +17,7 @@ Have a great day!"
 
 ## Deploy
 
-[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://personal-card-astro.netlify.app/)
+[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-liard-nine-12.vercel.app/)
 
 ## 🚀 Project Structure
 
@@ -47,7 +45,6 @@ src/
 
 This guide explains how to customize the template for your personal use. In the `src/pages/index.astro`
 
-![example code](code-1.png)
 
 ## External Card Customization
 
@@ -185,4 +182,4 @@ Feel free to check [Astro documentation](https://docs.astro.build) or jump into 
 
 ## Contact
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-bima-a7995733a/)
