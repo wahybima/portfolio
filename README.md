@@ -99,7 +99,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the Template Repository**
 
     ```bash
-    https://github.com/alcarazbrian/professional-card-astro.git
+    https://github.com/wahybima/professional-card-astro.git
     cd professional-card-astro
     ```
 
